@@ -5,7 +5,7 @@ title:               Coffee Cantata
 tagline:             'a Fall 2022 exercise'
 description:         'little tutorial project'
 url:                 'http://minicomp.github.io'
-baseurl:             'kaffeekantate'
+baseurl:             "/kaffeekantate"
 
 # About/contact
 author:
